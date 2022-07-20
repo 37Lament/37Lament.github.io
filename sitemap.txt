@@ -1,8 +1,8 @@
-http://example.com/2022/07/20/%E7%89%9B%E5%AE%A2%E6%9A%91%E5%81%87%E5%A4%9A%E6%A0%A1-1/
-http://example.com/2022/07/20/%E7%BA%BF%E6%AE%B5%E6%A0%91%E6%9D%BF%E5%AD%90/
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/
-http://example.com/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/
-http://example.com/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
-http://example.com/categories/%E7%AE%97%E6%B3%95/
+https://37lament.github.io/2022/07/20/%E7%89%9B%E5%AE%A2%E6%9A%91%E5%81%87%E5%A4%9A%E6%A0%A1-1/
+https://37lament.github.io/2022/07/20/%E7%BA%BF%E6%AE%B5%E6%A0%91%E6%9D%BF%E5%AD%90/
+https://37lament.github.io/tags/index.html
+https://37lament.github.io/categories/index.html
+https://37lament.github.io/
+https://37lament.github.io/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/
+https://37lament.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
+https://37lament.github.io/categories/%E7%AE%97%E6%B3%95/
